@@ -4,11 +4,11 @@ This project is a responsive e-commerce website designed to provide users with a
 
 ## Features
 ### Responsive Design: Adapts to various screen sizes, from desktop to mobile, ensuring a consistent user experience.
-### Product Listings: Dynamic product pages with images, descriptions, and pricing information.
-### Search Functionality: Users can easily search for products using a simple search bar.
-### Shopping Cart: Users can add or remove items from their cart, view totals, and proceed to checkout.
-### User Accounts: (Planned) Registration and login features for personalized shopping experiences.
-### Payment Integration: (Planned) Secure payment gateway for checkout processes.
+**### Product Listings:** Dynamic product pages with images, descriptions, and pricing information.
+**### Search Functionality:** Users can easily search for products using a simple search bar.
+**### Shopping Cart:** Users can add or remove items from their cart, view totals, and proceed to checkout.
+**### User Accounts:** (Planned) Registration and login features for personalized shopping experiences.
+**### Payment Integration:** (Planned) Secure payment gateway for checkout processes.
 
 ## Technologies Used
 **HTML5:** For structuring the web pages.
