@@ -18,8 +18,13 @@ Users can add or remove items from their cart, view totals, and proceed to check
 
 ## Technologies Used
 **HTML5:** For structuring the web pages.
+
 **CSS3:** For styling and ensuring responsiveness.
+
 **JavaScript:** For interactive features and dynamic content.
+
 **React.js:** (or any other framework you choose) for building user interfaces.
+
 **Node.js:** (if applicable) for the backend services.
+
 **MongoDB:** (if applicable) for database management.
